@@ -2,7 +2,7 @@
 #include <iostream>
 
 #include "commands/commands.hpp"
-#include "fs.hpp"
+#include "lockfile.hpp"
 
 int main(const int argc, char *argv[]) {
     argparse::ArgumentParser program("dt");

@@ -1,5 +1,5 @@
-#ifndef FS_HPP
-#define FS_HPP
+#ifndef LOCKFILE_HPP
+#define LOCKFILE_HPP
 #include <ctime>
 #include <filesystem>
 #include <nlohmann/json.hpp>
@@ -37,4 +37,4 @@ struct LockFile {
     void save();
 };
 
-#endif // FS_HPP
+#endif // LOCKFILE_HPP
