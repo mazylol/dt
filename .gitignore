@@ -1,0 +1,7 @@
+/builddir
+/buildDir
+/lockfile.json
+/directory.json
+/.idea
+/subprojects/packagecache
+/subprojects/nlohmann_json-3.11.3
